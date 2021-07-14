@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meljandavid
 - 👀 I’m interested in desktop and game development
 - 🌱 I’m currently learning C# and WPF
-- 💞️ I’m looking to collaborate on any open-spurce game project.
+- 💞️ I’m looking to collaborate on any open-source game project.
 - 📫 david.meljan@gmail.com
 
 <!---
