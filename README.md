@@ -1,4 +1,4 @@
-Hi, I’m @meljandavid
+Hi,
 I’m interested in game development and competitive programming
 
 <!---
